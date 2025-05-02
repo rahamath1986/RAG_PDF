@@ -6,3 +6,4 @@ chromadb
 langchain-community
 huggingface_hub
 sentence-transformers
+python-multipart
