@@ -1,9 +1,9 @@
-fastapi
-uvicorn
-langchain
-pypdf
-chromadb
-langchain-community
-huggingface_hub
-sentence-transformers
 python-multipart
+fastapi==0.115.0
+uvicorn==0.30.6
+langchain==0.3.1
+pypdf==5.0.0
+chromadb==0.5.5
+langchain-community==0.3.1
+huggingface_hub==0.25.1
+sentence-transformers==3.1.1
